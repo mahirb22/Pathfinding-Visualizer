@@ -9,10 +9,10 @@ Once your grid is set up, you can press the "Visualize" button to watch the algo
 
 Built With React.Js
 
-If you're interested in contributing to this project, please reach out to the owner of this repo, or open a pull request with your proposed changes.
+If you're interested in contributing to this project, please reach out to me, or open a pull request with your proposed changes.
+
 
 Upcoming features
-
 => Selecting your own start and end point.
 => Setting up your own walls.
 => A dropdown menu for selecting different algorithms.
@@ -22,7 +22,6 @@ Authors
 Mahir Bhatt - Initial work
 
 Acknowledgments
-
 Inspiration for this project came from my curiosity to understand the inner workings of pathfinding algorithms and how they navigate through a grid.
 
 Thanks for checking out the Pathfinding Visualizer! We hope you find it useful and enjoy using it.
